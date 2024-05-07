@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89E0B1D4-0594-470F-90B4-BDFCAA53D740"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A3EBB22-04B7-4055-80E1-24681FECD7AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AFShowCase/AFManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "getCrypto(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A3EBB22-04B7-4055-80E1-24681FECD7AB - 396867d175db4b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AFShowCase.AFManager.getCrypto((Swift.Optional&lt;AFShowCase.CryptoModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AFShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/AFShowCase/AFShowCase/AFManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "2A3EBB22-04B7-4055-80E1-24681FECD7AB - b231b5b65dc16e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in AFShowCase.AFManager.getCrypto((Swift.Optional&lt;AFShowCase.CryptoModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AFShowCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/AFShowCase/AFShowCase/AFManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9262776A-A8BB-4204-95CB-B084D604C509"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AFShowCase/AFManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getCrypto(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
